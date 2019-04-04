@@ -5,8 +5,9 @@ import { Observable, Observer } from 'rxjs';
 import { User } from '../_models/user';
 
 const httpOptions = {
-  headers: new HttpHeaders;
-}
+  // yyyy
+  const x = 10
+};
 
 @Injectable({
   providedIn: 'root'
